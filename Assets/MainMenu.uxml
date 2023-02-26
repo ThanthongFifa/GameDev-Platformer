@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Style.uss?fileID=7433441132597879392&amp;guid=e7e516a5b89e34e66869db72326dc487&amp;type=3#Style" />
+    <ui:VisualElement style="justify-content: space-around; align-items: center; height: 594px; position: absolute; width: 1228px; top: 16px; left: -4px;">
+        <ui:Label text="Mando&apos;s Adventure" display-tooltip-when-elided="true" style="font-size: 100px;" />
+        <ui:VisualElement style="height: 400px; width: 908px; justify-content: space-between;">
+            <ui:Button text="Play" display-tooltip-when-elided="true" name="Play" class="button-style" />
+            <ui:Button text="Exit" display-tooltip-when-elided="true" name="Exit" class="button-style" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

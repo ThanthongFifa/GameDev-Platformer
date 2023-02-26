@@ -1,0 +1,44 @@
+.button-style {
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    font-size: 100px;
+    background-color: rgb(11, 149, 173);
+    height: 148px;
+    width: 878px;
+}
+
+.button-style:hover {
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    font-size: 100px;
+    background-color: rgb(6, 118, 137);
+    height: 148px;
+    width: 878px;
+}
+
+.button-style:active {
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    font-size: 100px;
+    background-color: rgb(0, 80, 94);
+    height: 148px;
+    width: 878px;
+}
